@@ -15,6 +15,10 @@ To use this "snippet", copy the code. You can leave or also copy the print comma
 print(basiclog("This is title", "There goes descirption", "GRN"))
 ```
 
+<p align="center">
+  Where you see **GRN**
+</p>
+
 # Credits
 <p align="center">
   Inspired on duinocoin miner/avr logging, simplified and rewrited
