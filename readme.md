@@ -30,5 +30,5 @@ Where you see **"GRN"** you can change log title color. to **"RED"** or **"YEL"*
 <br>
 
 <p align="center">
-  By lemonek with 
+  By lemonek with <img src="https://i.ibb.co/87zVpDG/output-onlinepngtools.png">
 </p>
