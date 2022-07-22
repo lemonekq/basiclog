@@ -25,4 +25,8 @@ Where you see **"GRN"** you can change log title color. to **"RED"** or **"YEL"*
   <br>
   
   <img src="https://i.ibb.co/7C6Zfyj/firefox-jb-C6-UFwdle.png">
+  
+  <br>
+  
+  By lemonek
 </p>
