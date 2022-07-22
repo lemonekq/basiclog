@@ -15,9 +15,7 @@ To use this "snippet", copy the code. You can leave or also copy the print comma
 print(basiclog("This is title", "There goes descirption", "GRN"))
 ```
 
-<p align="center">
-  Where you see **GRN**
-</p>
+Where you see **"GRN"** you can change log title color. to **"RED"** or **"YEL"** You can also change it to none.
 
 # Credits
 <p align="center">
