@@ -11,6 +11,10 @@ in this readme you will know how to use this shit and how to set colors
 To use this "snippet", copy the code. You can leave or also copy the print command, You will copy this later in this "tutorial".<br>
 **Now copy this print and adjust it to you own conditions.**
 
+```python
+print(basiclog("This is title", "There goes descirption", "GRN"))
+```
+
 # Credits
 <p align="center">
   Inspired on duinocoin miner/avr logging, simplified and rewrited
