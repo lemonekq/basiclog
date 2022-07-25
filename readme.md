@@ -8,14 +8,14 @@ in this readme you will know how to use this shit and how to set colors
 </p>
 
 # Usage
-To use this "snippet", copy the code. You can leave or also copy the print command, You will copy this later in this "tutorial".<br>
+To use this "snippet", copy the code (main.py). You can copy or leave alone the print command, You will copy this command later in this "tutorial".<br>
 **Now copy this print and adjust it to you own conditions.**
 
 ```python
 print(basiclog("This is title", "There goes descirption", "GRN"))
 ```
 
-Where you see **"GRN"** you can change log title color. to **"RED"** or **"YEL"** You can also change it to **"none"**.
+Where you see **"GRN"** you can change log title color to **"RED"** or **"YEL"** You can also change it to **"none"**.
 
 # Credits
 <p align="center">
