@@ -33,7 +33,8 @@ Where you see **"GRN"** you can change log title color to **"RED"** or **"YEL"**
 
 # Faq
 **How do i change the colors of log description???**
-> Use colorama, like i said you can put here everything like ```python
+> Use colorama, like i said you can put here everything like
+```python
 Fore.RED
 ```
 **Duinocoin ones have theese margins!!! Add them!11!!1!**
