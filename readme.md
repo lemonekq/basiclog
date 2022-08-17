@@ -30,3 +30,11 @@ Where you see **"GRN"** you can change log title color to **"RED"** or **"YEL"**
 <p align="center">
   By lemonek with <img src="https://i.ibb.co/QbbrByC/output-onlinepngtools-2.png">
 </p>
+
+# Faq
+**How do i change the colors of log description???**
+> Use colorama, like i said you can put here everything like ```python
+Fore.RED
+```
+**Duinocoin ones have theese margins!!! Add them!11!!1!**
+> Bro chill, on the first arg add spaces before and after the string you want to put in first text box
